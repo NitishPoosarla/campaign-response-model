@@ -1,0 +1,5 @@
+poutcome,contacts,conv_rate
+failure,4901,0.1261
+other,1840,0.1668
+success,1511,0.6473
+unknown,36959,0.0916

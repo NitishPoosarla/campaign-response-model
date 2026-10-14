@@ -1,0 +1,13 @@
+{
+  "contacts": 45211,
+  "conversion_rate": 0.117,
+  "conversions": 5289,
+  "assumed_call_cost": 2.5,
+  "assumed_margin": 120.0,
+  "total_dial_cost": 113028.0,
+  "campaign_revenue": 634680.0,
+  "campaign_roi": 5.62,
+  "response_rate_low_rate": 0.0916,
+  "response_rate_prior_success": 0.6473,
+  "avg_calls_per_contact": 2.76
+}

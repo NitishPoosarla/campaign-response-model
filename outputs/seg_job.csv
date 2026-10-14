@@ -1,0 +1,13 @@
+job,contacts,conv_rate
+admin.,5171,0.122
+blue-collar,9732,0.0727
+entrepreneur,1487,0.0827
+housemaid,1240,0.0879
+management,9458,0.1376
+retired,2264,0.2279
+self-employed,1579,0.1184
+services,4154,0.0888
+student,938,0.2868
+technician,7597,0.1106
+unemployed,1303,0.155
+unknown,288,0.1181
